@@ -91,4 +91,3 @@ O **Agent 2** recebe as informações do Agent 1 e gera um **plano completo de e
 
 ---
 
-Quer que eu já monte um **exemplo prático de README.md preenchido** com sua escolha de carreira (**Machine Learning Engineer**) para ficar ainda mais ilustrativo?
